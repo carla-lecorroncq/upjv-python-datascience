@@ -1,6 +1,6 @@
 # Python & Data Science - UPJV Amiens
-**Étudiant·e :** Prénom Nom  
-**Formation :** L3 Économie / M1 Économie  
+**Étudiant·e :** Carla LE CORRONCQ
+**Formation :** M1 Monnaie Banque Finance Assurance  
 **Année :** 2026-2027
 
 ## Description
