@@ -17,6 +17,7 @@ Ce dépôt contient mes travaux dirigés du cours Python & Data Science réalis�
 | [TD4](td04_enonce.ipynb) | Les fonctions et NumPy | :white_check_mark: |
 | [TD5](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | :white_check_mark: |
 | [TD6](td06_enonce.ipynb) | Logique, flux de contrôle et boucles | :white_check_mark: |
+| [TD7](td07_enonce.ipynb) | Étude de cas statistiques + Mini-projet 1 | :white_check_mark: |
 ## Crédits
 
 Cours de M. Guéry — Faculté d'économie, UPJV
